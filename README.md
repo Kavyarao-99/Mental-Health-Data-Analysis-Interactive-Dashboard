@@ -15,3 +15,14 @@ It focuses on **data cleaning, analysis, and visualization**, with insights pres
 - **Python** → Pandas, Matplotlib, Seaborn  
 - **Looker Studio** → Interactive visualizations  
 - **Google Colab** → Code execution and documentation  
+
+## 📊 Sample Visualizations
+
+### Family History
+![Family History](Images/Family%20history.png)
+
+### Gender vs Treatment
+![Gender vs Treatment](Images/Gender%20vs%20Treatment.png)
+
+### Record Count
+![Record Count](Images/Record%20count.png)
