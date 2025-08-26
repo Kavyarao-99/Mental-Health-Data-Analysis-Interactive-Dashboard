@@ -1,2 +1,17 @@
 # Mental-Health-Data-Analysis-Interactive-Dashboard
-Data cleaning and visualization project analyzing survey responses on mental health and well-being.
+
+This project explores survey responses on mental health and well-being.  
+It focuses on **data cleaning, analysis, and visualization**, with insights presented in an **interactive dashboard** created using Looker Studio.  
+
+## 🔍 Project Overview
+- Cleaned and pre-processed survey data for consistency  
+- Analyzed key factors such as **mental health awareness, family history, and willingness to seek treatment**  
+- Created meaningful **charts and insights** to highlight patterns  
+- Built and published an **interactive dashboard** for exploration
+
+**Live Dashboard:** [View on Looker Studio](https://lookerstudio.google.com/reporting/00399066-43bc-4ce5-81b9-f4bc94172dbb)
+
+## 🛠️ Tools & Technologies
+- **Python** → Pandas, Matplotlib, Seaborn  
+- **Looker Studio** → Interactive visualizations  
+- **Google Colab** → Code execution and documentation  
