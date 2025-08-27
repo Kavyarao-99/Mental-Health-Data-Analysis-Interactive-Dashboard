@@ -17,7 +17,8 @@ It focuses on **data cleaning, analysis, and visualization**, with insights pres
 - **Google Colab** → Code execution and documentation
 
 ## 📂 Data
-[Mental_Health_Dataset.csv](./data/Mental_Health_Dataset.zip)
+This dataset contains anonymized survey responses related to mental health awareness, family history, workplace attitudes, and willingness to seek treatment.
+[Mental_Health_Dataset.csv](./data/Mental%20Health%20Dataset.zip)
 
 ## 📓 Jupyter Notebook
 You can view the full data cleaning and analysis notebook here:  
