@@ -14,7 +14,12 @@ It focuses on **data cleaning, analysis, and visualization**, with insights pres
 ## 🛠️ Tools & Technologies
 - **Python** → Pandas, Matplotlib, Seaborn  
 - **Looker Studio** → Interactive visualizations  
-- **Google Colab** → Code execution and documentation  
+- **Google Colab** → Code execution and documentation
+
+📓 Jupyter Notebook  
+You can view the full data cleaning and analysis notebook here:  
+[View on nbviewer](https://nbviewer.org/github/Kavyarao-99/Mental-Health-Data-Analysis-Interactive-Dashboard/blob/main/notebooks/MH_Data.ipynb)
+ 
 
 ## 📊 Sample Visualizations
 
