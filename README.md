@@ -18,6 +18,25 @@ It focuses on **data cleaning, analysis, and visualization**, with insights pres
 
 ## 📂 Data
 This dataset contains anonymized survey responses related to mental health awareness, family history, workplace attitudes, and willingness to seek treatment.
+
+Key Features (Columns):
+- Timestamp → Date of response
+- Gender → Self-reported gender
+- Country → Country of residence
+- Occupation → Employment type
+- self_employed → Whether the respondent is self-employed
+- family_history → Whether the respondent’s family has a history of mental illness
+- treatment → Whether the respondent sought treatment for mental illness
+- Days_Indoors → Time spent indoors during survey period
+- Growing_Stress → Reported stress levels
+- Changes_Habits → Whether they changed habits due to mental health
+- Mental_Health_History → Past record of mental health issues
+- Mood_Swings → Frequency of mood swings
+- Coping_Struggles → Difficulty in coping
+- Work_Interest → Effect on work interest
+- Social_Weakness → Social withdrawal or weakness
+- mental_health_interview → Comfort discussing mental health in an interview
+- care_options → Availability of mental health care options
 [Mental_Health_Dataset.csv](./data/Mental%20Health%20Dataset.zip)
 
 ## 📓 Jupyter Notebook
