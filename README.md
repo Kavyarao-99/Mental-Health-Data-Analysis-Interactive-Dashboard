@@ -37,7 +37,8 @@ Key Features (Columns):
 - Social_Weakness → Social withdrawal or weakness
 - mental_health_interview → Comfort discussing mental health in an interview
 - care_options → Availability of mental health care options
-[Mental_Health_Dataset.csv](./data/Mental%20Health%20Dataset.zip)
+
+**View the full dataset here:** [Mental_Health_Dataset.csv](./data/Mental%20Health%20Dataset.zip)
 
 ## 📓 Jupyter Notebook
 You can view the full data cleaning and analysis notebook here:  
